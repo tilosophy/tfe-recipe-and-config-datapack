@@ -7,4 +7,5 @@ This datapack currently contains the following pre-existing datapacks:
 - Create Immersive Aircrafts Datapack 1.20.1 - 1.2
 - Create Immersive Aircrafts Warship Recipe DataPack
 
-Individual recipes and changes (especially carry-overs from the 1.19.2 server) will be handled by KubeJS for the time being.
+All recipes from the "Create: Sifter" mod have been disabled by this datapack, as they were deemed too strong for the early game.
+Custom recipes for the device are being worked on in a separate project.
