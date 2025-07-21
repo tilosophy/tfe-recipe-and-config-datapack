@@ -7,6 +7,4 @@ This datapack currently contains the following pre-existing datapacks:
 - Create Immersive Aircrafts Datapack 1.20.1 - 1.2
 - Create Immersive Aircrafts Warship Recipe DataPack
 
-This datapack also contains the following changes:
-
--...
+Individual recipes and changes (especially carry-overs from the 1.19.2 server) will be handled by KubeJS for the time being.
