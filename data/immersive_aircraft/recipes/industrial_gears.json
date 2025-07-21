@@ -1,12 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "ICI"
+    "CB",
+    "IC"
   ],
   "key": {
     "C": [
       {
         "item": "create:cogwheel"
+      }
+    ],
+    "B": [
+      {
+        "item": "create:brass_sheet"
       }
     ],
     "I": [
