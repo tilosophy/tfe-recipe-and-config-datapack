@@ -10,31 +10,7 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.5,
-      "id": "createsifter:basalt_pebble"
-    },
-    {
-      "chance": 0.4,
-      "id": "createsifter:blackstone_pebble"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:gold_nugget"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:quartz"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:blaze_powder"
-    },
-    {
-      "chance": 0.01,
-      "id": "minecraft:netherite_scrap"
-    },
-    {
-      "chance": 0.1,
+      "chance": 0.25,
       "id": "create:experience_nugget"
     }
   ]

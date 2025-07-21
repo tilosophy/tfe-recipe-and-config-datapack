@@ -10,32 +10,8 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.1,
-      "id": "minecraft:oak_sapling"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:spruce_sapling"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:birch_sapling"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:jungle_sapling"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:acacia_sapling"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:dark_oak_sapling"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:cherry_sapling"
+      "chance": 0.25,
+      "id": "create:experience_nugget"
     }
   ]
 }

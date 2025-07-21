@@ -10,23 +10,7 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.45,
-      "id": "minecraft:quartz"
-    },
-    {
-      "chance": 0.15,
-      "id": "minecraft:quartz"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:nether_wart"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:ghast_tear"
-    },
-    {
-      "chance": 0.2,
+      "chance": 0.25,
       "id": "create:experience_nugget"
     }
   ]

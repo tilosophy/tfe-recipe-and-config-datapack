@@ -10,15 +10,7 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.05,
-      "id": "minecraft:ancient_debris"
-    },
-    {
-      "chance": 0.02,
-      "id": "minecraft:netherite_scrap"
-    },
-    {
-      "chance": 0.1,
+      "chance": 0.25,
       "id": "create:experience_nugget"
     }
   ]

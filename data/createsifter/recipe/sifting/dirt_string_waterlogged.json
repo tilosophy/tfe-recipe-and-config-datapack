@@ -10,32 +10,8 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.3,
-      "id": "minecraft:kelp"
-    },
-    {
-      "chance": 0.2,
-      "id": "minecraft:seagrass"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:tube_coral"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:brain_coral"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:bubble_coral"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:fire_coral"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:horn_coral"
+      "chance": 0.25,
+      "id": "create:experience_nugget"
     }
   ],
   "waterlogged": true

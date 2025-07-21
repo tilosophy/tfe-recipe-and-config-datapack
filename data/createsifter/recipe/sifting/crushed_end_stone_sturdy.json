@@ -10,23 +10,7 @@
   "processingTime": 500,
   "results": [
     {
-      "chance": 0.05,
-      "id": "minecraft:ender_pearl"
-    },
-    {
-      "chance": 0.1,
-      "id": "minecraft:chorus_flower"
-    },
-    {
-      "chance": 0.5,
-      "id": "minecraft:chorus_fruit"
-    },
-    {
-      "chance": 0.05,
-      "id": "minecraft:shulker_shell"
-    },
-    {
-      "chance": 0.1,
+      "chance": 0.25,
       "id": "create:experience_nugget"
     }
   ]
