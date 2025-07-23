@@ -1,0 +1,47 @@
+{
+  "type": "create_jetpack:copy_components_mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    " NPN ",
+    "AGYGA",
+    "AVTVA",
+    "NFEFN",
+    " C C "
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "create:smart_chute"
+    },
+    "F": {
+      "item": "create:encased_fan"
+    },
+    "G": {
+      "item": "create:gearbox"
+    },
+    "Y": {
+      "tag": "immersive_aircraft:gyroscope"
+    },
+    "P": {
+      "tag": "create:precision_mechanism"
+    },
+    "E": {
+      "tag": "immersive_aircraft:engine"
+    },
+    "V": {
+      "tag": "create:fluid_valve"
+    },
+    "T": {
+      "tag": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "id": "create_jetpack:netherite_jetpack"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "type": "create_jetpack:copy_components_mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "pattern": [
+    " BPB ",
+    "AGYGA",
+    "AVTVA",
+    "BFEFB",
+    " C C "
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "create:brass_ingot"
+    },
+    "C": {
+      "item": "create:chute"
+    },
+    "F": {
+      "item": "create:encased_fan"
+    },
+    "G": {
+      "item": "create:gearbox"
+    },
+    "Y": {
+      "tag": "immersive_aircraft:gyroscope"
+    },
+    "P": {
+      "tag": "create:precision_mechanism"
+    },
+    "E": {
+      "tag": "immersive_aircraft:engine"
+    },
+    "V": {
+      "tag": "create:fluid_valve"
+    },
+    "T": {
+      "tag": "create:fluid_tank"
+    }
+  },
+  "result": {
+    "id": "create_jetpack:jetpack"
+  }
+}
