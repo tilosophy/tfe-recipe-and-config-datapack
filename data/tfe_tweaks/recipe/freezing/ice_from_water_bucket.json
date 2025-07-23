@@ -1,0 +1,18 @@
+{
+  "type": "dndesires:freezing",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:ice",
+      "count": 1
+    }
+  ]
+}
