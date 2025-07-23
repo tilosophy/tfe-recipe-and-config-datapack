@@ -1,0 +1,18 @@
+{
+	"type": "create:haunting",
+	"ingredients": [
+	  {
+		"item": "minecraft:egg"
+	  }
+	],
+	"results": [
+	  {
+		"chance": 0.01,
+		"id": "minecraft:dragon_egg"
+	  },
+	  {
+		"chance": 0.01,
+		"id": "dmr:dragon_egg"
+	  }
+	]
+  }
