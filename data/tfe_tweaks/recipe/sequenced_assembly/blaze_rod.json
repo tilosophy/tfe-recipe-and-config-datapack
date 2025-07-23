@@ -1,0 +1,96 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:dusts/obsidian"
+  },
+  "loops": 3,
+  "results": [
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        },
+        {
+          "amount": 250,
+          "fluid": "minecraft:lava",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        },
+        [
+          {
+            "item": "create:shaft"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        },
+        {
+          "amount": 250,
+          "fluid": "minecraft:lava"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:unprocessed_obsidian_sheet"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create:unprocessed_obsidian_sheet"
+  }
+}

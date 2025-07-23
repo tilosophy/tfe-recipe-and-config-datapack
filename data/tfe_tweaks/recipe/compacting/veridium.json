@@ -1,0 +1,28 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:clay_ball",
+			"count": 2
+		},
+		{
+			"item": "supplementaries:ash"
+		},
+		{
+			"item": "create:copper_nugget"
+		},
+		{
+			"type": "fluid_stack",
+			"amount": 250,
+			"fluid": "minecraft:lava"
+		}
+	],
+	"results": [
+		{
+			"item": {
+				"id": "create:veridium"
+			}
+		}
+	],
+	"heatRequirement": "heated"
+}

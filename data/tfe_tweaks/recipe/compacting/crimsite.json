@@ -1,0 +1,28 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:sand"
+		},
+		{
+			"item": "minecraft:flint",
+			"count": 2
+		},
+		{
+			"item": "minecraft:iron_nugget"
+		},
+		{
+			"type": "fluid_stack",
+			"amount": 250,
+			"fluid": "minecraft:lava"
+		}
+	],
+	"results": [
+		{
+			"item": {
+				"id": "create:crimsite"
+			}
+		}
+	],
+	"heatRequirement": "heated"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "processingTime": 200
+}

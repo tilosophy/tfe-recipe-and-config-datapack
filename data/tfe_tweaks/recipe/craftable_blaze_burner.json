@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "bcb",
+    "blb"
+  ],
+  "key": {
+    "c": {
+      "item": "create:empty_blaze_burner"
+    },
+	"b": {
+      "item": "minecraft:blaze_rod"
+    },
+	"l": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "create:blaze_burner",
+    "count": 1
+  }
+}

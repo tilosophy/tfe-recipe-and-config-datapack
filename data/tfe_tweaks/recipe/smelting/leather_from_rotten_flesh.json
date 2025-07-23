@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "ingredients": [
+    {
+      "item": "minecraft:rotten_flesh"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:leather",
+      "count": 1
+    }
+  ]
+}
