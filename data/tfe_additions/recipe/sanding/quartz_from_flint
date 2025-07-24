@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:sanding",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "id": "minecraft:quartz"
+    }
+  ]
+}

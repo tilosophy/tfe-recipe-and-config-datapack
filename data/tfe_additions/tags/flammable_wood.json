@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:wooden_stairs",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_buttons",
+    "#minecraft:wooden_doors",
+    "#minecraft:wooden_pressure_plates",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:wooden_fences",
+    "#minecraft:planks",
+    "#minecraft:wooden_axe",
+    "#minecraft:wooden_pickaxe",
+    "#minecraft:wooden_hoe",
+    "#minecraft:wooden_shovel",
+    "#minecraft:wooden_sword",
+    "#minecraft:boats",
+    "#minecraft:chest_boats",
+    "#minecraft:signs",
+    "#create:scrap_wood_small",
+    "#create:scrap_wood_medium",
+    "#create:scrap_wood_large",
+    "minecraft:bookshelf",
+    "minecraft:ladder",
+    "minecraft:chest",
+    "minecraft:barrel"
+  ]
+}
+
+

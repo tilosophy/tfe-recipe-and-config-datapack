@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:seething",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine_shard"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.01,
+      "id": "dndesires:lapis_lazuli_shard"
+    }
+  ]
+}

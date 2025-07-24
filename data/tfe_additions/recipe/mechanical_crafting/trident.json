@@ -1,0 +1,39 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "P": {
+      "tag": "minecraft:prismarine_crystals"
+    },
+    "S": {
+      "tag": "create:shaft"
+    },
+    "N": {
+      "tag": "minecraft:nautilus_shell"
+    },
+    "R": {
+      "tag": "minecraft:lightning_rod"
+    },
+    "L": {
+      "tag": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "D D D",
+    "R R R",
+    "PPNPP",
+    " LSL ",
+    " LSL "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:trident"
+  },
+  "show_notification": false
+}
+
+

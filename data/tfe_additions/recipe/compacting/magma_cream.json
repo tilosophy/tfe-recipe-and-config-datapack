@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "create:dough"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:magma_cream",
+      "count": 2
+    }
+  ]
+}

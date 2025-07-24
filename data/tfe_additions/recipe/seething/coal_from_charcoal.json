@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:seething",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "id": "minecraft:coal"
+    }
+  ]
+}

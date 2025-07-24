@@ -1,0 +1,24 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"count": 4,
+            "item": "minecraft:bone_meal"
+		},
+		{
+			"count": 4,
+            "item": "minecraft:quartz"			
+		},
+		{
+			"item": "create:limestone"
+		}
+	],
+	"results": [
+		{
+			"item": {
+				"id": "minecraft:calcite"
+			}
+		}
+	],
+	"heatRequirement": "heated"
+}

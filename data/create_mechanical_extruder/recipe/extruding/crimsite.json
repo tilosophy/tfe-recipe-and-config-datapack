@@ -3,7 +3,7 @@
   "advanced": true,
   "blockIngredients": {
     "first": {
-      "blocks": "minecraft:sand"
+      "blocks": "supplementaries:flint_block"
     },
     "second": {
       "blocks": "minecraft:lava"
