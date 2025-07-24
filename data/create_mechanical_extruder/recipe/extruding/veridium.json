@@ -1,0 +1,22 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "advanced": true,
+  "blockIngredients": {
+    "first": {
+      "blocks": "minecraft:clay"
+    },
+    "second": {
+      "blocks": "minecraft:lava"
+    }
+  },
+  "catalyst": {
+    "blocks": "minecraft:oxidized_copper"
+  },
+  "consumeBlocks": {
+    "first": false,
+    "second": true
+  },
+  "result": {
+    "id": "create:veridium"
+  }
+}

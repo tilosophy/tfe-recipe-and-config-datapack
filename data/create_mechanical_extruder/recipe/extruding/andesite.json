@@ -1,0 +1,22 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "advanced": true,
+  "blockIngredients": {
+    "first": {
+      "blocks": "create:zinc_block"
+    },
+    "second": {
+      "blocks": "minecraft:iron_block"
+    }
+  },
+  "catalyst": {
+    "blocks": "minecraft:lava"
+  },
+  "consumeBlocks": {
+    "first": false,
+    "second": false
+  },
+  "result": {
+    "id": "minecraft:andesite"
+  }
+}

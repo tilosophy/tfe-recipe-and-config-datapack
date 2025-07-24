@@ -1,0 +1,22 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "advanced": true,
+  "blockIngredients": {
+    "first": {
+      "blocks": "minecraft:water"
+    },
+    "second": {
+      "blocks": "minecraft:water"
+    }
+  },
+  "catalyst": {
+    "blocks": "minecraft:packed_ice"
+  },
+  "consumeBlocks": {
+    "first": true,
+    "second": true
+  },
+  "result": {
+    "id": "minecraft:snow_block"
+  }
+}
