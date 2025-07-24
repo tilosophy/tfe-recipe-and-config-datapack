@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "count": 1,
+      "item": "create:cinder_flour"
+    },
+    {
+      "count": 1,
+      "item": "create:experience_nugget"      
+    },
+    {
+      "count": 1,
+      "item": "minecraft:egg"      
+    },
+    {
+      "type": "fluid_stack",
+      "amount": 500,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "amount": 500,
+      "id": "create_mechanical_spawner:spawn_fluid_random"
+    }
+  ]
+}
