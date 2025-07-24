@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "accept_mirrored": false,
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "AAA",
+    "B B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "minecraft:saddle",
+    "count": 1
+  }
+}
