@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shaped",
-  "accept_mirrored": false,
   "category": "misc",
   "pattern": [
     " A ",

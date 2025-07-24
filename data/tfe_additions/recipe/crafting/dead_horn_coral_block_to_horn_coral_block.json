@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:yellow_dye"
+        },
+        {
+            "item": "minecraft:dead_horn_coral_block"
+        }
+    ],
+    "result": {
+        "id": "minecraft:horn_coral_block",
+        "count": 1
+    }
+}
