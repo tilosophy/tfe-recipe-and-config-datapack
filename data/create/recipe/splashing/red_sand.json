@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sand"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.2,
+      "count": 2,
+      "id": "minecraft:copper_nugget"
+    },
+    {
+      "chance": 0.05,
+      "id": "minecraft:dead_bush"
+    }
+  ]
+}

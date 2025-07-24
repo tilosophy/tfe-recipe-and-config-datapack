@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "minecraft:quartz"
+    },
+    {
+      "item": "create:cinder_flour"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:redstone"
+    }
+  ],
+  "heat_requirement": "superheated"
+}
