@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AA",
+    "  "
+  ],
+  "key": {
+    "A": {
+      "item": "biomesoplenty:small_rose_quartz_bud"
+    }
+  },
+  "result": {
+    "id": "biomesoplenty:medium_rose_quartz_bud",
+    "count": 1
+  }
+}
