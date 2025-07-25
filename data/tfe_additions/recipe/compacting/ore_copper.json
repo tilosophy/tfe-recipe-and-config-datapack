@@ -1,0 +1,25 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:cobblestone"
+		},
+		{
+			"count": 6,
+            "item": "create:crushed_raw_copper"
+		},
+        {
+			"count": 1,
+            "item": "create:experience_nugget"
+		}
+	],
+    "processingTime": 300,
+	"results": [
+		{
+			"item": {
+				"id": "minecraft:copper_ore"
+			}
+		}
+	],
+	"heatRequirement": "superheated"
+}

@@ -1,0 +1,25 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:cobblestone"
+		},
+		{
+			"count": 2,
+            "item": "create:crushed_raw_gold"
+		},
+        {
+			"count": 1,
+            "item": "create:experience_nugget"
+		}
+	],
+    "processingTime": 300,
+	"results": [
+		{
+			"item": {
+				"id": "minecraft:gold_ore"
+			}
+		}
+	],
+	"heatRequirement": "superheated"
+}
