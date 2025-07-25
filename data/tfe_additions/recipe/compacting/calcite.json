@@ -2,11 +2,11 @@
 	"type": "create:compacting",
 	"ingredients": [
 		{
-			"count": 4,
+			"count": 1,
             "item": "minecraft:bone_meal"
 		},
 		{
-			"count": 4,
+			"count": 1,
             "item": "minecraft:quartz"			
 		},
 		{
