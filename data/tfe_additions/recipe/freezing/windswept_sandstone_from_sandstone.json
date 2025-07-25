@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:freezing",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    }
+  ],
+  "results": [
+    {
+      "id": "biomeswevegone:windswept_sandstone",
+      "count": 1
+    }
+  ]
+}
