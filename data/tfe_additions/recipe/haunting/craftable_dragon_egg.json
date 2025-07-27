@@ -7,12 +7,12 @@
 	],
 	"results": [
 	  {
-		"chance": 0.01,
+		"chance": 0.005,
 		"id": "minecraft:dragon_egg"
 	  },
 	  {
-		"chance": 0.01,
-		"id": "dmr:dragon_egg"
+		"chance": 0.005,
+		"id": "dmr:blank_egg"
 	  }
 	]
   }

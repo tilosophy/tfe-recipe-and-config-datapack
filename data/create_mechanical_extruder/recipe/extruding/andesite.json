@@ -6,15 +6,15 @@
       "blocks": "create:zinc_block"
     },
     "second": {
-      "blocks": "minecraft:iron_block"
+      "blocks": "minecraft:lava"
     }
   },
   "catalyst": {
-    "blocks": "minecraft:lava"
+    "blocks": "minecraft:iron_block"
   },
   "consumeBlocks": {
     "first": false,
-    "second": false
+    "second": true
   },
   "result": {
     "id": "minecraft:andesite"

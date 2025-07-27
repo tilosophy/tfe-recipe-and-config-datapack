@@ -3,19 +3,25 @@
   "advanced": true,
   "blockIngredients": {
     "first": {
-      "blocks": "minecraft:stone"
+      "blocks": "minecraft:lava"
     },
     "second": {
-      "blocks": "minecraft:lava"
+      "blocks": "create:chocolate"
     }
   },
   "catalyst": {
-    "blocks": "create:chocolate"
+    "blocks": "create:zinc_block"
   },
   "consumeBlocks": {
     "first": false,
     "second": true
   },
+  "requirements": [
+    {
+      "type": "mechanicals:max_speed",
+      "value": 32.0
+    }
+  ],
   "result": {
     "id": "create:scoria"
   }

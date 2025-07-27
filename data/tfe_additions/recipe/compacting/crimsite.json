@@ -5,8 +5,10 @@
 			"item": "minecraft:sand"
 		},
 		{
-			"item": "minecraft:flint",
-			"count": 2
+			"item": "minecraft:flint"
+		},
+		{
+			"item": "minecraft:flint"
 		},
 		{
 			"item": "minecraft:iron_nugget"
@@ -19,10 +21,8 @@
 	],
 	"results": [
 		{
-			"item": {
-				"id": "create:crimsite"
-			}
+			"id": "create:crimsite"
 		}
 	],
-	"heatRequirement": "heated"
+	"heat_requirement": "heated"
 }

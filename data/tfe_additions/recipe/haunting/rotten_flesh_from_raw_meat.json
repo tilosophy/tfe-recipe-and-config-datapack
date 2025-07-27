@@ -2,7 +2,7 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "item": "minecraft:mutton"
+      "tag": "c:foods/raw_meat"
     }
   ],
   "results": [

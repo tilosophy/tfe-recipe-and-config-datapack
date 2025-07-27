@@ -1,25 +1,25 @@
 {
   "type": "create:mechanical_crafting",
-  "accept_mirrored": false,
+  "accept_mirrored": true,
   "category": "misc",
   "key": {
     "D": {
       "item": "minecraft:diamond"
     },
     "P": {
-      "tag": "minecraft:prismarine_crystals"
+      "item": "minecraft:prismarine_crystals"
     },
     "S": {
-      "tag": "create:shaft"
+      "item": "create:shaft"
     },
     "N": {
-      "tag": "minecraft:nautilus_shell"
+      "item": "minecraft:nautilus_shell"
     },
     "R": {
-      "tag": "minecraft:lightning_rod"
+      "item": "minecraft:lightning_rod"
     },
     "L": {
-      "tag": "minecraft:leather"
+      "item": "minecraft:leather"
     }
   },
   "pattern": [

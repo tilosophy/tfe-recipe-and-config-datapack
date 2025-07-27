@@ -2,8 +2,7 @@
 	"type": "create:compacting",
 	"ingredients": [
 		{
-			"item": "minecraft:sandstone",
-			"count": 1
+			"item": "minecraft:sandstone"
 		},
 		{
 			"item": "supplementaries:ash"
@@ -16,10 +15,8 @@
 	],
 	"results": [
 		{
-			"item": {
-				"id": "minecraft:tuff"
-			}
+			"id": "minecraft:tuff"
 		}
 	],
-	"heatRequirement": "heated"
+	"heat_requirement": "heated"
 }

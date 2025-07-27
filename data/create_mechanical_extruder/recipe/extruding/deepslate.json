@@ -3,7 +3,7 @@
   "advanced": true,
   "blockIngredients": {
     "first": {
-      "blocks": "minecraft:lwater"
+      "blocks": "minecraft:water"
     },
     "second": {
       "blocks": "minecraft:lava"

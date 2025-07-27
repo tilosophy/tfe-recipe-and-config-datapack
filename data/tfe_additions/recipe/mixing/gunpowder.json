@@ -2,7 +2,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "minecraft:charcoal"
+      "item": "minecraft:charcoal"
     },
     {
       "item": "create:cinder_flour"

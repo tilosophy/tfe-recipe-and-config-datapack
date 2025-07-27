@@ -1,0 +1,15 @@
+{
+  "type": "create:haunting",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "create:scoria"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:scorchia"
+    }
+  ],
+  "processing_time": 300
+}

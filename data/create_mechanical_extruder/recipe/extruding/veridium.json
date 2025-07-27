@@ -16,6 +16,12 @@
     "first": false,
     "second": true
   },
+  "requirements": [
+    {
+      "type": "mechanicals:max_speed",
+      "value": 32.0
+    }
+  ],
   "result": {
     "id": "create:veridium"
   }

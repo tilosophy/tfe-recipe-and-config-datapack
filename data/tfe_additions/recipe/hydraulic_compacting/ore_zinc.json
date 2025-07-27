@@ -1,25 +1,24 @@
 {
-	"type": "create:compacting",
+	"type": "dndesires:hydraulic_compacting",
 	"ingredients": [
 		{
 			"item": "minecraft:cobblestone"
 		},
 		{
-			"count": 2,
+            "item": "create:crushed_raw_zinc"
+		},
+		{
             "item": "create:crushed_raw_zinc"
 		},
         {
-			"count": 1,
             "item": "create:experience_nugget"
 		}
 	],
-    "processingTime": 300,
+    "processing_time": 300,
 	"results": [
 		{
-			"item": {
-				"id": "create:zinc_ore"
-			}
+			"id": "create:zinc_ore"
 		}
 	],
-	"heatRequirement": "superheated"
+	"heat_requirement": "superheated"
 }

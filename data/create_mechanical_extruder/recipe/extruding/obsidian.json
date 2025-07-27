@@ -2,16 +2,23 @@
   "type": "create_mechanical_extruder:extruding",
   "blockIngredients": {
     "first": {
-      "blocks": "minecraft:water"
+      "blocks": "minecraft:packed_ice"
     },
     "second": {
-      "blocks": "minecraft:lava"
+      "blocks": "minecraft:magma"
     }
+  },
+  "catalyst": {
+    "blocks": "minecraft:obsidian"
+  },
+  "consumeBlocks": {
+    "first": false,
+    "second": false
   },
   "requirements": [
     {
       "type": "mechanicals:max_speed",
-      "value": 4.0
+      "value": 16.0
     }
   ],
   "result": {

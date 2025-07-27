@@ -20,6 +20,11 @@
       "chance": 0.5,
       "id": "oritech:coal_dust",
       "count": 1
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "id": "create_ironworks:coal_dust"
     }
   ]
 }

@@ -2,8 +2,10 @@
 	"type": "create:compacting",
 	"ingredients": [
 		{
-			"item": "minecraft:clay_ball",
-			"count": 2
+			"item": "minecraft:clay_ball"
+		},
+		{
+			"item": "minecraft:clay_ball"
 		},
 		{
 			"item": "supplementaries:ash"
@@ -19,10 +21,8 @@
 	],
 	"results": [
 		{
-			"item": {
-				"id": "create:veridium"
-			}
+			"id": "create:veridium"
 		}
 	],
-	"heatRequirement": "heated"
+	"heat_requirement": "heated"
 }

@@ -17,7 +17,7 @@
     }
   },
   "result": {
-    "item": "create:blaze_burner",
+    "id": "create:blaze_burner",
     "count": 1
   }
 }

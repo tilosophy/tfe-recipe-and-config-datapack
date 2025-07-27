@@ -2,11 +2,9 @@
 	"type": "create:compacting",
 	"ingredients": [
 		{
-			"count": 1,
             "item": "minecraft:bone_meal"
 		},
 		{
-			"count": 1,
             "item": "minecraft:quartz"			
 		},
 		{
@@ -15,10 +13,8 @@
 	],
 	"results": [
 		{
-			"item": {
-				"id": "minecraft:calcite"
-			}
+			"id": "minecraft:calcite"
 		}
 	],
-	"heatRequirement": "heated"
+	"heat_requirement": "heated"
 }

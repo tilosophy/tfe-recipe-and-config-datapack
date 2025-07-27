@@ -1,0 +1,54 @@
+{
+	"type": "dndesires:hydraulic_compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:cobbled_deepslate"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+		{
+            "item": "create:cinder_flour"
+		},
+        {
+            "item": "create:experience_nugget"
+		}
+	],
+    "processing_time": 400,
+	"results": [
+		{
+			"id": "minecraft:deepslate_redstone_ore"
+		}
+	],
+	"heat_requirement": "superheated"
+}

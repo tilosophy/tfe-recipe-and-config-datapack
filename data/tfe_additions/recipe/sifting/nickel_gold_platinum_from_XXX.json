@@ -7,7 +7,7 @@
     "count": 1,
     "id": "createsifter:advanced_brass_mesh"
   },
-  "processingTime": 600,
+  "processing_time": 400,
   "results": [
     {
       "chance": 0.25,

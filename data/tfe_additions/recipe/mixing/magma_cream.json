@@ -1,5 +1,5 @@
 {
-  "type": "create:compacting",
+  "type": "create:mixing",
   "ingredients": [
     {
       "item": "minecraft:magma_block"
@@ -13,5 +13,6 @@
       "id": "minecraft:magma_cream",
       "count": 2
     }
-  ]
+  ],
+  "heat_requirement": "heated"
 }

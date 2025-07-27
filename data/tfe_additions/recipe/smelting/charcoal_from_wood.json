@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smelting",
+  "category": "misc",
   "ingredients": [
     {
-      "item": "#tfe_additions:flammable_wood"
+      "tag": "tfe_additions:flammable_wood"
     }
   ],
-  "processingTime": 200,
-  "results": [
+  "processing_time": 200,
+  "result": [
     {
-      "id": "minecraft:charcoal",
-      "count": 1
+      "id": "minecraft:charcoal"
     }
   ]
 }

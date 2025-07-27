@@ -5,16 +5,19 @@
 			"item": "minecraft:blackstone"
 		},
 		{
-			"count": 3,
+			"item": "minecraft:gold_ingot"
+		},
+		{
+			"item": "minecraft:gold_ingot"
+		},
+		{
 			"item": "minecraft:gold_ingot"
 		}
 	],
 	"results": [
 		{
-			"item": {
-				"id": "minecraft:gilded_blackstone"
-			}
+			"id": "minecraft:gilded_blackstone"
 		}
 	],
-	"heatRequirement": "superheated"
+	"heat_requirement": "superheated"
 }

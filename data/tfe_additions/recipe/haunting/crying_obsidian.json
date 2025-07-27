@@ -7,8 +7,8 @@
   ],
   "results": [
     {
-      "item": "minecraft:crying_obsidian"
+      "id": "minecraft:crying_obsidian"
     }
   ],
-  "processingTime": 250
+  "processing_time": 300
 }

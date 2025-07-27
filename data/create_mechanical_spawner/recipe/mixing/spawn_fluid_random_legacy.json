@@ -3,15 +3,12 @@
   "heat_requirement": "heated",
   "ingredients": [
     {
-      "count": 1,
       "item": "create:cinder_flour"
     },
     {
-      "count": 1,
       "item": "create:experience_nugget"      
     },
     {
-      "count": 1,
       "item": "minecraft:egg"      
     },
     {

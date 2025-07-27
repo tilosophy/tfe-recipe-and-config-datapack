@@ -2,11 +2,10 @@
 	"type": "create:compacting",
 	"ingredients": [
 		{
-			"item": "minecraft:clay_ball"
+			"item": "minecraft:terracotta"
 		},
 		{
-			"item": "minecraft:sand",
-			"count": 2
+			"item": "minecraft:sand"
 		},
 		{
 			"item": "create:gold_nugget"
@@ -19,10 +18,8 @@
 	],
 	"results": [
 		{
-			"item": {
-				"id": "create:ochrum"
-			}
+			"id": "create:ochrum"
 		}
 	],
-	"heatRequirement": "heated"
+	"heat_requirement": "heated"
 }

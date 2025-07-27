@@ -26,19 +26,19 @@
       "item": "create:gearbox"
     },
     "Y": {
-      "tag": "immersive_aircraft:gyroscope"
+      "item": "immersive_aircraft:gyroscope"
     },
     "P": {
-      "tag": "create:precision_mechanism"
+      "item": "create:precision_mechanism"
     },
     "E": {
-      "tag": "immersive_aircraft:engine"
+      "item": "immersive_aircraft:engine"
     },
     "V": {
-      "tag": "create:fluid_valve"
+      "item": "create:fluid_valve"
     },
     "T": {
-      "tag": "create:fluid_tank"
+      "item": "create:fluid_tank"
     }
   },
   "result": {

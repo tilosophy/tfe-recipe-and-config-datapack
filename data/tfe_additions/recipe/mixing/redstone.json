@@ -2,7 +2,7 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "minecraft:quartz"
+      "item": "minecraft:quartz"
     },
     {
       "item": "create:cinder_flour"

@@ -1,25 +1,24 @@
 {
-	"type": "create:compacting",
+	"type": "dndesires:hydraulic_compacting",
 	"ingredients": [
 		{
 			"item": "minecraft:cobbled_deepslate"
 		},
 		{
-			"count": 2,
+            "item": "create:crushed_raw_platinum"
+		},
+		{
             "item": "create:crushed_raw_platinum"
 		},
         {
-			"count": 1,
             "item": "create:experience_nugget"
 		}
 	],
-    "processingTime": 400,
+    "processing_time": 400,
 	"results": [
 		{
-			"item": {
-				"id": "oritech:deepslate_platinum_ore"
-			}
+			"id": "oritech:deepslate_platinum_ore"
 		}
 	],
-	"heatRequirement": "superheated"
+	"heat_requirement": "superheated"
 }

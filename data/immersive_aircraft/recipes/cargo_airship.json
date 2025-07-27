@@ -1,11 +1,10 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    "   S ",
-    "S  S ",
-    "HH_EP",
-    "S  S ",
-    "   S "
+    "SSS ",
+    "~ ~ ",
+    "H_EP",
+    "CHHC"
   ],
   "key": {
     "H": [
@@ -20,7 +19,7 @@
     ],
     "P": [
       {
-        "item": "immersive_aircraft:propeller"
+        "item": "create:propeller"
       }
     ],
     "S": [
@@ -28,14 +27,24 @@
         "item": "immersive_aircraft:sail"
       }
     ],
+    "~": [
+      {
+        "item": "minecraft:string"
+      }
+    ],
     "_": [
       {
         "tag": "create:seats"
       }
-    ]
+    ],
+	"C": [
+		{
+		"item": "minecraft:chest"
+		}
+	]
   },
   "result": {
-    "item": "immersive_aircraft:biplane"
+    "item": "immersive_aircraft:cargo_airship"
   },
   "acceptMirrored": true
 }

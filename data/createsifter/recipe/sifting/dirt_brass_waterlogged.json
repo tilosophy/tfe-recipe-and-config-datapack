@@ -22,8 +22,8 @@
       "id": "minecraft:seagrass"
     },
     {
-      "chance": 0.01,
-      "id": "minecraft:tall_seagrass"
+      "chance": 0.001,
+      "id": "minecraft:nautilus_shell"
     }
   ],
   "waterlogged": true

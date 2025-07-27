@@ -2,7 +2,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "tag": "c:stones"
+      "item": "c:cobblestones"
+    },
+    {
+      "item": "minecraft:nether_wart"
     },
     {
       "item": "minecraft:nether_wart"
