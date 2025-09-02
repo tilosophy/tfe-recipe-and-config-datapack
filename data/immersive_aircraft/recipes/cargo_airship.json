@@ -7,44 +7,31 @@
     "CHHC"
   ],
   "key": {
-    "H": [
-      {
+    "H": {
         "item": "immersive_aircraft:hull"
-      }
-    ],
-    "E": [
-      {
+      },
+    "E": {
         "item": "immersive_aircraft:engine"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "create:propeller"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "immersive_aircraft:sail"
-      }
-    ],
-    "~": [
-      {
+      },
+    "~": {
         "item": "minecraft:string"
-      }
-    ],
-    "_": [
-      {
+      },
+    "_": {
         "tag": "create:seats"
-      }
-    ],
-	"C": [
-		{
+      },
+	"C":	{
 		"item": "minecraft:chest"
 		}
-	]
   },
   "result": {
-    "item": "immersive_aircraft:cargo_airship"
+    "count": 1,
+    "id": "immersive_aircraft:cargo_airship"
   },
-  "acceptMirrored": true
+  "accept_mirrored": true
 }

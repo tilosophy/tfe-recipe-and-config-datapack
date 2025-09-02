@@ -8,34 +8,25 @@
     "   S "
   ],
   "key": {
-    "H": [
-      {
+    "H": {
         "item": "immersive_aircraft:hull"
-      }
-    ],
-    "E": [
-      {
+      },
+    "E": {
         "item": "immersive_aircraft:engine"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "immersive_aircraft:sail"
-      }
-    ],
-    "_": [
-      {
+      },
+    "_": {
         "tag": "create:seats"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:biplane"
+    "count": 1,
+    "id": "immersive_aircraft:biplane"
   },
-  "acceptMirrored": true
+  "accept_mirrored": true
 }

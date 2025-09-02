@@ -5,18 +5,15 @@
     "C"
   ],
   "key": {
-    "C": [
-      {
+    "C": {
         "item": "minecraft:compass"
-      }
-    ],
-    "E": [
-      {
+      },
+    "E": {
         "item": "create:electron_tube"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:gyroscope"
+    "count": 1,
+    "id": "immersive_aircraft:gyroscope"
   }
 }

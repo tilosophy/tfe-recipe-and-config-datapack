@@ -5,23 +5,18 @@
     "B "
   ],
   "key": {
-    "B": [
-      {
+    "B": {
         "item": "create:belt_connector"
-      }
-    ],
-    "I": [
-      {
+      },
+    "I": {
         "item": "minecraft:iron_ingot"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "create:iron_sheet"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:improved_landing_gear"
+    "count": 1,
+    "id": "immersive_aircraft:improved_landing_gear"
   }
 }

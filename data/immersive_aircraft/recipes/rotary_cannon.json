@@ -6,23 +6,18 @@
     " C "
   ],
   "key": {
-    "D": [
-      {
+    "D": {
         "item": "minecraft:dispenser"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "create:precision_mechanism"
-      }
-    ],
-    "C": [
-      {
+      },
+    "C": {
         "item": "minecraft:copper_ingot"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:rotary_cannon"
+    "count": 1,
+    "id": "immersive_aircraft:rotary_cannon"
   }
 }

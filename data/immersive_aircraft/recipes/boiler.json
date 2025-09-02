@@ -6,23 +6,18 @@
     "I"
   ],
   "key": {
-    "I": [
-      {
+    "I": {
         "item": "create:blaze_burner"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "create:steam_engine"
-      }
-    ],
-    "N": [
-      {
+      },
+    "N": {
         "item": "create:fluid_tank"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:boiler"
+    "count": 1,
+    "id": "immersive_aircraft:boiler"
   }
 }

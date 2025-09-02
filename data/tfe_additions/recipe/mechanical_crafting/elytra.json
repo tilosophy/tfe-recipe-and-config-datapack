@@ -9,8 +9,8 @@
     "P": {
       "item": "minecraft:phantom_membrane"
     },
-    "L": {
-      "item": "minecraft:leather"
+    "E": {
+      "item": "minecraft:ender_eye"
     },
     "M": {
       "item": "create:precision_mechanism"
@@ -20,11 +20,11 @@
     }
   },
   "pattern": [
-    " DLD ",
-    "SPMPS",
-    "SP PS",
-    "SP PS",
-    "SP PS"
+    " D D ",
+    "SEMES",
+    "PP PP",
+    "PP PP",
+    "DS SD"
   ],
   "result": {
     "count": 1,

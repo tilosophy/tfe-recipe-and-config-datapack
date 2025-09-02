@@ -10,5 +10,6 @@
       "chance": 0.005,
       "id": "dndesires:diamond_shard"
     }
-  ]
+  ],
+	"heat_requirement": "superheated"
 }

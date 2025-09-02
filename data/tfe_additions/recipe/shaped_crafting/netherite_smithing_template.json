@@ -2,20 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "A": {
+    "N": {
       "item": "minecraft:netherite_scrap"
     },
-    "B": {
-      "tag": "minecraft:diamond"
+    "D": {
+      "item": "minecraft:diamond"
     },
-    "C": {
-      "tag": "minecraft:blaze_rod"
+    "L": {
+      "item": "minecraft:lapis_block"
     }
   },
   "pattern": [
-    "CAC",
-    "ABA",
-    "CAC"
+    "DND",
+    "NLN",
+    "DND"
   ],
   "result": {
     "id": "minecraft:netherite_upgrade_smithing_template"

@@ -5,18 +5,15 @@
     "LIL"
   ],
   "key": {
-    "L": [
-      {
+    "L": {
         "item": "create:andesite_casing"
-      }
-    ],
-    "I": [
-      {
+      },
+    "I": {
         "item": "minecraft:iron_ingot"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:hull"
+    "count": 1,
+    "id": "immersive_aircraft:hull"
   }
 }

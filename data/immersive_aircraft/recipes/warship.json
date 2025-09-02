@@ -8,49 +8,34 @@
     " HHH "
   ],
   "key": {
-    "P": [
-      {
+    "P": {
         "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "E": [
-      {
+      },
+    "E": {
         "item": "immersive_aircraft:engine"
-      }
-    ],
-    "A": [
-      {
+      },
+    "A": {
         "item": "immersive_aircraft:cargo_airship"
-      }
-    ],
-    "C": [
-      {
+      },
+    "C": {
         "item": "immersive_aircraft:heavy_crossbow"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "immersive_aircraft:sail"
-      }
-    ],
-    "~": [
-      {
+      },
+    "~": {
         "item": "minecraft:string"
-      }
-    ],
-    "_": [
-      {
+      },
+    "_": {
         "item": "create:sturdy_sheet"
-      }
-    ],
-    "H": [
-      {
+      },
+    "H": {
         "item": "immersive_aircraft:hull"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:warship"
+    "count": 1,
+    "id": "immersive_aircraft:warship"
   },
-  "acceptMirrored": true
+  "accept_mirrored": true
 }

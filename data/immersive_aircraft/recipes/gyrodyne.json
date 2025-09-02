@@ -6,33 +6,24 @@
     "H_H"
   ],
   "key": {
-    "S": [
-      {
+    "S": {
         "item": "immersive_aircraft:sail"
-      }
-    ],
-    "H": [
-      {
+      },
+    "H": {
         "item": "immersive_aircraft:hull"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "E": [
-      {
+      },
+    "E": {
         "item": "create:precision_mechanism"
-      }
-    ],
-    "_": [
-      {
+      },
+    "_": {
         "tag": "create:seats"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:gyrodyne"
+    "count": 1,
+    "id": "immersive_aircraft:gyrodyne"
   }
 }

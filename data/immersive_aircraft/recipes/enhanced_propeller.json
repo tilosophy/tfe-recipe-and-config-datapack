@@ -6,18 +6,15 @@
     " B "
   ],
   "key": {
-    "B": [
-      {
+    "B": {
         "item": "create:brass_sheet"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "create:propeller"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:enhanced_propeller"
+    "count": 1,
+    "id": "immersive_aircraft:enhanced_propeller"
   }
 }

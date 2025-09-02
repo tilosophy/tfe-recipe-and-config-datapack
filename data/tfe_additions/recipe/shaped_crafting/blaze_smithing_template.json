@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_rod"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    "DND",
+    "NBN",
+    "DND"
+  ],
+  "result": {
+    "id": "create_dragons_plus:blaze_upgrade_smithing_template"
+  }
+}

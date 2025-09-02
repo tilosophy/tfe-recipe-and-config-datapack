@@ -8,19 +8,13 @@
       "item": "minecraft:kelp"
     },
     {
-      "item": "minecraft:kelp"
-    },
-    {
-      "item": "minecraft:kelp"
-    },
-    {
       "item": "create:dough"
     }
   ],
   "results": [
     {
       "id": "minecraft:slime_ball",
-      "count": 2
+      "count": 1
     }
   ],
   "heat_requirement": "heated"

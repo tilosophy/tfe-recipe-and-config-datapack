@@ -8,39 +8,29 @@
     "   SS"
   ],
   "key": {
-    "E": [
-      {
+    "E": {
         "item": "immersive_aircraft:engine"
-      }
-    ],
-    "G": [
-      {
+      },
+    "G": {
         "item": "immersive_aircraft:industrial_gears"
-      }
-    ],
-    "H": [
-      {
+      },
+    "H": {
         "item": "immersive_aircraft:hull"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "immersive_aircraft:sail"
-      }
-    ],
-    "_": [
-      {
+      },
+    "_": {
         "tag": "create:seats"
       }
-    ]
   },
   "result": {
-    "item": "man_of_many_planes:economy_plane"
+    "count": 1,
+    "id": "man_of_many_planes:economy_plane"
   },
-  "acceptMirrored": true
+  "accept_mirrored": true
 }
+

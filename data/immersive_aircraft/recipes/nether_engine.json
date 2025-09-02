@@ -5,28 +5,21 @@
     "SES"
   ],
   "key": {
-    "S": [
-      {
+    "S": {
         "item": "create:sturdy_sheet"
-      }
-    ],
-    "L": [
-      {
+      },
+    "L": {
         "item": "minecraft:lava_bucket"
-      }
-    ],
-    "I": [
-      {
+      },
+    "I": {
         "item": "create:iron_sheet"
-      }
-    ],
-    "E": [
-      {
+      },
+    "E": {
         "item": "immersive_aircraft:boiler"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:nether_engine"
+    "count": 1,
+    "id": "immersive_aircraft:nether_engine"
   }
 }

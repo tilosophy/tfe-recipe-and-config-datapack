@@ -5,23 +5,18 @@
     "IC"
   ],
   "key": {
-    "C": [
-      {
+    "C": {
         "item": "create:cogwheel"
-      }
-    ],
-    "B": [
-      {
+      },
+    "B": {
         "item": "create:brass_sheet"
-      }
-    ],
-    "I": [
-      {
+      },
+    "I": {
         "item": "create:iron_sheet"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:industrial_gears"
+    "count": 1,
+    "id": "immersive_aircraft:industrial_gears"
   }
 }

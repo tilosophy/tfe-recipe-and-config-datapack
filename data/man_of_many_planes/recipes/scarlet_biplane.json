@@ -8,34 +8,25 @@
     "   W "
   ],
   "key": {
-    "B": [
-      {
+    "B": {
         "item": "immersive_aircraft:biplane"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "immersive_aircraft:propeller"
-      }
-    ],
-    "R": [
-      {
+      },
+    "R": {
         "item": "immersive_aircraft:hull_reinforcement"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "create:andesite_scaffolding"
-      }
-    ],
-    "W": [
-      {
+      },
+    "W": {
         "tag": "minecraft:wooden_slabs"
       }
-    ]
   },
   "result": {
-    "item": "man_of_many_planes:scarlet_biplane"
+    "count": 1,
+    "id": "man_of_many_planes:scarlet_biplane"
   },
-  "acceptMirrored": true
+  "accept_mirrored": true
 }

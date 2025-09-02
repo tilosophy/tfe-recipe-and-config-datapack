@@ -6,28 +6,21 @@
     "PEP"
   ],
   "key": {
-    "E": [
-      {
+    "E": {
         "item": "immersive_aircraft:boiler"
-      }
-    ],
-    "A": [
-      {
+      },
+    "A": {
         "item": "create:andesite_casing"
-      }
-    ],
-    "S": [
-      {
+      },
+    "S": {
         "item": "minecraft:string"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "create:propeller"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:quadrocopter"
+    "count": 1,
+    "id": "immersive_aircraft:quadrocopter"
   }
 }

@@ -1,5 +1,6 @@
 {
   "type": "create_mechanical_extruder:extruding",
+  "advanced": true,
   "blockIngredients": {
     "first": {
       "blocks": "minecraft:packed_ice"

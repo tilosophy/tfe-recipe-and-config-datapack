@@ -6,23 +6,18 @@
     "ICI"
   ],
   "key": {
-    "R": [
-      {
+    "R": {
         "item": "minecraft:redstone_torch"
-      }
-    ],
-    "I": [
-      {
+      },
+    "I": {
         "item": "create:iron_sheet"
-      }
-    ],
-    "C": [
-      {
+      },
+    "C": {
         "item": "create:chute"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:bomb_bay"
+    "count": 1,
+    "id": "immersive_aircraft:bomb_bay"
   }
 }

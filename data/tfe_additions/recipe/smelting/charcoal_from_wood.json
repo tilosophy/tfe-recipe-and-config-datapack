@@ -1,15 +1,12 @@
 {
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredients": [
-    {
-      "tag": "tfe_additions:flammable_wood"
-    }
-  ],
-  "processing_time": 200,
-  "result": [
-    {
-      "id": "minecraft:charcoal"
-    }
-  ]
+  "cookingtime": 300,
+  "experience": 0.15,
+  "ingredient": {
+    "tag": "tfe_additions:flammable_wood"
+  },
+  "result": {
+    "id": "minecraft:charcoal"
+  }
 }

@@ -6,18 +6,15 @@
     " I "
   ],
   "key": {
-    "I": [
-      {
+    "I": {
         "item": "create:iron_sheet"
-      }
-    ],
-    "P": [
-      {
+      },
+    "P": {
         "item": "create:propeller"
       }
-    ]
   },
   "result": {
-    "item": "immersive_aircraft:propeller"
+    "count": 1,
+    "id": "immersive_aircraft:propeller"
   }
 }
