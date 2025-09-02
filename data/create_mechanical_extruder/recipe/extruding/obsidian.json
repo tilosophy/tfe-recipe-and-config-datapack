@@ -6,7 +6,7 @@
       "blocks": "minecraft:packed_ice"
     },
     "second": {
-      "blocks": "minecraft:magma"
+      "blocks": "minecraft:magma_block"
     }
   },
   "catalyst": {

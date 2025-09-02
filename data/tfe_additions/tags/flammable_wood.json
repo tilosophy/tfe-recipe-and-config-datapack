@@ -1,29 +1,98 @@
 {
   "replace": false,
   "values": [
-    "#minecraft:wooden_stairs",
-    "#minecraft:wooden_slabs",
-    "#minecraft:wooden_buttons",
-    "#minecraft:wooden_doors",
-    "#minecraft:wooden_pressure_plates",
-    "#minecraft:wooden_trapdoors",
-    "#minecraft:wooden_fences",
-    "#minecraft:planks",
-    "#minecraft:wooden_axe",
-    "#minecraft:wooden_pickaxe",
-    "#minecraft:wooden_hoe",
-    "#minecraft:wooden_shovel",
-    "#minecraft:wooden_sword",
-    "#minecraft:boats",
-    "#minecraft:chest_boats",
-    "#minecraft:signs",
-    "#create:scrap_wood_small",
-    "#create:scrap_wood_medium",
-    "#create:scrap_wood_large",
-    "minecraft:bookshelf",
-    "minecraft:ladder",
-    "minecraft:chest",
-    "minecraft:barrel"
+    {
+      "id": "#minecraft:wooden_stairs",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_slabs",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_buttons",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_doors",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_pressure_plates",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_trapdoors",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_fences",
+      "required": false
+    },
+    {
+      "id": "#minecraft:planks",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_axe",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_hoe",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_pickaxe",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_shovel",
+      "required": false
+    },
+    {
+      "id": "minecraft:wooden_sword",
+      "required": false
+    },
+    {
+      "id": "#minecraft:boats",
+      "required": false
+    },
+    {
+      "id": "#minecraft:chest_boats",
+      "required": false
+    },
+    {
+      "id": "#minecraft:signs",
+      "required": false
+    },
+    {
+      "id": "#create:scrap_wood_small",
+      "required": false
+    },
+    {
+      "id": "#create:scrap_wood_medium",
+      "required": false
+    },
+    {
+      "id": "#create:scrap_wood_large",
+      "required": false
+    },
+    {
+      "id": "minecraft:bookshelf",
+      "required": false
+    },
+    {
+      "id": "minecraft:ladder",
+      "required": false
+    },
+    {
+      "id": "minecraft:chest",
+      "required": false
+    },
+    {
+      "id": "minecraft:barrel",
+      "required": false
+    }    
   ]
 }
 

@@ -5,9 +5,9 @@
   },
   "mesh": {
     "count": 1,
-    "id": "createsifter:andesite_mesh"
+    "id": "createsifter:string_mesh"
   },
-  "processingTime": 500,
+  "processing_time": 500,
   "results": [
     {
       "chance": 0.1,

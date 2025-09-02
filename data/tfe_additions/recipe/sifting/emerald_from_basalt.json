@@ -19,11 +19,11 @@
     },
     {
       "chance": 0.03,
-      "id": "create:zinc_nugget"
+      "id": "create:crushed_raw_zinc"
     },
     {
       "chance": 0.06,
-      "id": "minecraft:iron_nugget"
+      "id": "create:crushed_raw_iron"
     },
     {
       "chance": 0.01,

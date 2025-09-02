@@ -3,8 +3,8 @@
   "accept_mirrored": true,
   "category": "misc",
   "key": {
-    "S": {
-      "item": "minecraft:string"
+    "N": {
+      "item": "minecraft:netherite_ingot"
     },
     "P": {
       "item": "minecraft:phantom_membrane"
@@ -14,17 +14,14 @@
     },
     "M": {
       "item": "create:precision_mechanism"
-    },
-    "D": {
-      "item": "minecraft:diamond"
     }
   },
   "pattern": [
-    " D D ",
-    "SEMES",
+    " N N ",
+    "PMEMP",
     "PP PP",
     "PP PP",
-    "DS SD"
+    "PE EP"
   ],
   "result": {
     "count": 1,
