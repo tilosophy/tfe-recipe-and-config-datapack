@@ -4,7 +4,7 @@
   "cookingtime": 300,
   "experience": 0.15,
   "ingredient": {
-    "tag": "tfe_additions:flammable_wood"
+    "tag": "tfe_additions:scrap_wood"
   },
   "result": {
     "id": "minecraft:charcoal"
