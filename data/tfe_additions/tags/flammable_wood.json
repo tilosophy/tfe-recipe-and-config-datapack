@@ -2,35 +2,35 @@
   "replace": false,
   "values": [
     {
-      "id": "#minecraft:wooden_stairs",
+      "tag": "minecraft:wooden_stairs",
       "required": false
     },
     {
-      "id": "#minecraft:wooden_slabs",
+      "tag": "minecraft:wooden_slabs",
       "required": false
     },
     {
-      "id": "#minecraft:wooden_buttons",
+      "tag": "minecraft:wooden_buttons",
       "required": false
     },
     {
-      "id": "#minecraft:wooden_doors",
+      "tag": "minecraft:wooden_doors",
       "required": false
     },
     {
-      "id": "#minecraft:wooden_pressure_plates",
+      "tag": "minecraft:wooden_pressure_plates",
       "required": false
     },
     {
-      "id": "#minecraft:wooden_trapdoors",
+      "tag": "minecraft:wooden_trapdoors",
       "required": false
     },
     {
-      "id": "#minecraft:wooden_fences",
+      "tag": "minecraft:wooden_fences",
       "required": false
     },
     {
-      "id": "#minecraft:planks",
+      "tag": "minecraft:planks",
       "required": false
     },
     {
@@ -54,27 +54,27 @@
       "required": false
     },
     {
-      "id": "#minecraft:boats",
+      "tag": "minecraft:boats",
       "required": false
     },
     {
-      "id": "#minecraft:chest_boats",
+      "tag": "minecraft:chest_boats",
       "required": false
     },
     {
-      "id": "#minecraft:signs",
+      "tag": "minecraft:signs",
       "required": false
     },
     {
-      "id": "#create:scrap_wood_small",
+      "tag": "create:scrap_wood_small",
       "required": false
     },
     {
-      "id": "#create:scrap_wood_medium",
+      "tag": "create:scrap_wood_medium",
       "required": false
     },
     {
-      "id": "#create:scrap_wood_large",
+      "tag": "create:scrap_wood_large",
       "required": false
     },
     {

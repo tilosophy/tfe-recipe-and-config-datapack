@@ -14,14 +14,20 @@
     },
     "M": {
       "item": "create:precision_mechanism"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:emerald"
     }
   },
   "pattern": [
     " N N ",
-    "PMEMP",
+    "DMSMD",
     "PP PP",
     "PP PP",
-    "PE EP"
+    "DE ED"
   ],
   "result": {
     "count": 1,
