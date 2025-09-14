@@ -1,10 +1,9 @@
 {
-  "type": "minecraft:campfire_cooking",
+  "type": "minecraft:smelting",
   "category": "misc",
   "cookingtime": 300,
-  "experience": 0.15,
   "ingredient": {
-    "tag": "minecraft:wooden_fences"
+    "item": "minecraft:campfire"
   },
   "result": {
     "id": "minecraft:charcoal"
