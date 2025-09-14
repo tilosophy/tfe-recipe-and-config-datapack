@@ -2,7 +2,6 @@
   "values": [
     "#minecraft:wooden_doors",
     "#minecraft:wooden_trapdoors",
-    "#minecraft:signs",
     "#minecraft:wooden_buttons",
     "#minecraft:wooden_fences",
     "#minecraft:fence_gates",
@@ -38,5 +37,3 @@
   ],
   "replace": false
 }
-
-
