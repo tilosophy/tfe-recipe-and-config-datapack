@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:iron_sheet"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "chance": 0.75,
+      "id": "create:crushed_raw_iron"
+    }
+  ]
+}
