@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:hanging_roots"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "SRS",
+    "DDD"
+  ],
+  "result": {
+    "id": "minecraft:sculk_sensor"
+  }
+}
