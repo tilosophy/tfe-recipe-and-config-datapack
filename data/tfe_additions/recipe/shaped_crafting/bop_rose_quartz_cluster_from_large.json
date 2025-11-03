@@ -2,7 +2,6 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "AA",
     "AA"
   ],
   "key": {
@@ -12,6 +11,6 @@
   },
   "result": {
     "id": "biomesoplenty:rose_quartz_cluster",
-    "count": 2
+    "count": 1
   }
 }

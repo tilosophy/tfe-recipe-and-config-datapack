@@ -3,11 +3,11 @@
     "category": "misc",
     "ingredients": [
         {
-            "item": "biomesoplenty:rose_quartz_chunk"
+            "item": "create:rose_quartz_block"
         }
     ],
     "result": {
-        "count": 2,
-        "id": "biomesoplenty:rose_quartz_cluster"
+        "count": 1,
+        "id": "biomesoplenty:rose_quartz_block"
     }
 }

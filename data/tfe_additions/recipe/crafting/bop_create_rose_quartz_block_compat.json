@@ -4,13 +4,10 @@
     "ingredients": [
         {
             "item": "biomesoplenty:rose_quartz_block"
-        },
-        {
-            "item": "biomesoplenty:rose_quartz_block"
         }
     ],
     "result": {
         "count": 1,
-        "id": "biomesoplenty:rose_quartz_chunk"
+        "id": "create:rose_quartz_block"
     }
 }

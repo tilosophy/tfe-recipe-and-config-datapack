@@ -1,0 +1,14 @@
+{
+  "type": "createaddition:rolling",
+  "ingredients": [
+    {
+      "item": "create:unprocessed_obsidian_sheet"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:blaze_rod"
+    }
+  ]
+}

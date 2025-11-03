@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "biomesoplenty:rose_quartz_chunk"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "create:rose_quartz"
+    }
+}
