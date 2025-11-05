@@ -1,9 +1,10 @@
 {
   "replace": false,
   "values": [
-    "createaddition:biomass",
-    "createaddition:biomass_pellet",
-    "createaddition:bioethanol_bucket",
-    "createaddition:bioethanol"
+    "mekanism:bio_fuel",
+    {"id": "createaddition:biomass", "required": false},
+    {"id": "createaddition:biomass_pellet", "required": false},
+    {"id": "createaddition:bioethanol_bucket", "required": false},
+    {"id": "createaddition:bioethanol", "required": false}
   ]
 }
