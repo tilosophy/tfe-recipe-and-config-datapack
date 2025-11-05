@@ -1,6 +1,8 @@
 {
   "values": [
     "createaddition:biomass",
-    "createaddition:bioethanol_bucket"
+    "createaddition:biomass_pellet",
+    "createaddition:bioethanol_bucket",
+    "createaddition:bioethanol"
   ]
 }
