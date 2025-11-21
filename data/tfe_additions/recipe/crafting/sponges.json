@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:hay_block"
+        },
+        {
+            "item": "create:pulp"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "createaddition:biomass"
+        }
+    ],
+    "result": {
+        "id": "minecraft:wet_sponge",
+        "count": 1
+    }
+}

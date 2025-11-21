@@ -1,0 +1,21 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:clay"
+		},
+		{
+			"item": "supplementaries:ash"
+		},
+		{
+			"type": "fluid_stack",
+			"amount": 100,
+			"fluid": "minecraft:lava"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:deepslate"
+		}
+	]
+}
