@@ -4,9 +4,9 @@
   "cookingtime": 200,
   "experience": 0.0,
   "ingredient": {
-    "item": "minecraft:rotten_flesh"
+    "item": "farmersdelight:rice_bale"
   },
   "result": {
-    "id": "minecraft:leather"
+    "id": "farmersdelight:straw_bale"
   }
 }

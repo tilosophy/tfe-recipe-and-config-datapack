@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:seething",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_lead"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "id": "mekanism:ingot_uranium"
+    }
+  ]
+}

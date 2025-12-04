@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:ingots/platinum"
+    },
+    {
+      "item": "mekanism:ingot_tin"
+    }
+  ],
+  "results": [
+    {
+      "id": "mekanism:ingot_osmium",
+      "count": 2
+    }
+  ],
+  "heat_requirement": "heated"
+}

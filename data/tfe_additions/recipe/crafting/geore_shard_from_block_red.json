@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "geore:redstone_block"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "id": "geore:redstone_shard"        
+    }
+}

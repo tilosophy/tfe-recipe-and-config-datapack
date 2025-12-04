@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_tin"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "mekanism:ingot_bronze",
+      "count": 2
+    }
+  ],
+  "heat_requirement": "heated"
+}

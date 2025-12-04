@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:organic_compost"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "item": "supplementaries:ash"
+    },
+    {
+      "item": "supplementaries:ash"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "create:tree_fertilizer"
+  }
+}

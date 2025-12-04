@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "SSSSS",
+    "SIDIS",
+    "SDNDS",
+    "SIDIS",
+    "SSSSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:heavy_core"
+  },
+  "show_notification": false
+}
+
+

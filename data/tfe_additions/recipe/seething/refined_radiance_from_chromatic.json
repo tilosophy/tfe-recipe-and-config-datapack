@@ -1,0 +1,13 @@
+{
+  "type": "dndesires:seething",
+  "ingredients": [
+    {
+      "item": "create:chromatic_compound"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:refined_radiance"
+    }
+  ]
+}

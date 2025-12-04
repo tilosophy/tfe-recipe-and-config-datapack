@@ -1,0 +1,13 @@
+{
+  "type": "dndesires:dragon_breathing",
+  "ingredients": [
+    {
+      "item": "create:chromatic_compound"
+    }
+  ],
+  "results": [
+    {
+      "id": "create:shadow_steel"
+    }
+  ]
+}

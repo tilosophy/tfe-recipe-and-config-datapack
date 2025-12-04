@@ -1,0 +1,18 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+        {
+            "item": "geore:quartz_shard"
+        },
+        {
+            "item": "geore:redstone_shard"
+        }
+    ],
+	"results": [
+		{
+			"count": 1,
+            "id": "create:rose_quartz"
+		}
+	],
+	"heat_requirement": "heated"
+}

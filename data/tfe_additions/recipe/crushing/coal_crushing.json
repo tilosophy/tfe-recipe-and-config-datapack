@@ -9,7 +9,7 @@
   "processing_time": 100,
   "results": [
     {
-      "chance": 0.5,
+      "chance": 0.2,
       "count": 1,
       "id": "minecraft:black_dye"
     },
@@ -23,9 +23,9 @@
       "count": 1
     },
     {
-      "chance": 0.5,
+      "chance": 1,
       "count": 1,
-      "id": "create_ironworks:coal_dust"
+      "id": "supplementaries:ash"
     }
   ]
 }

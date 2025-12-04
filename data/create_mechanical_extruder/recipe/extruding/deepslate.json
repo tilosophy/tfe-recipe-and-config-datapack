@@ -14,9 +14,9 @@
   },
   "consumeBlocks": {
     "first": false,
-    "second": true
+    "second": false
   },
   "result": {
-    "id": "minecraft:deepslate"
+    "id": "minecraft:cobbled_deepslate"
   }
 }

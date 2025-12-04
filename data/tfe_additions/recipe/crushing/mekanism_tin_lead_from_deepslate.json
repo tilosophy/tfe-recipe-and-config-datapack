@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.25,
+      "count": 1,
+      "id": "supplementaries:ash"
+    },
+    {
+      "chance": 0.05,
+      "count": 1,
+      "id": "mekanism:nugget_tin"
+    },
+    {
+      "chance": 0.25,
+      "count": 1,
+      "id": "mekanism:nugget_lead"
+    }
+  ]
+}

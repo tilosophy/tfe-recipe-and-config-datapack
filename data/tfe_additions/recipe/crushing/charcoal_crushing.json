@@ -9,12 +9,12 @@
   "processing_time": 200,
   "results": [
     {
-      "chance": 0.02,
+      "chance": 0.01,
       "count": 1,
       "id": "minecraft:black_dye"
     },
     {
-      "chance": 0.03,
+      "chance": 0.02,
       "count": 1,
       "id": "minecraft:gray_dye"
     },
@@ -25,8 +25,8 @@
     },
     {
       "chance": 0.5,
-      "count": 1,
-      "id": "create_ironworks:charcoal_dust"
+      "id": "oritech:coal_dust",
+      "count": 1
     }
   ]
 }
