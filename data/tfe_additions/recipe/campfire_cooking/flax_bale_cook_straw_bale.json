@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "supplementaries:flax_block"
+  },
+  "result": {
+    "id": "farmersdelight:straw_bale"
+  }
+}

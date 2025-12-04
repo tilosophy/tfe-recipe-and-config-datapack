@@ -7,7 +7,7 @@
   ],
   "results": [
     {
-      "chance": 0.025,
+      "chance": 0.25,
       "count": 1,
       "id": "supplementaries:ash"
     },
@@ -17,7 +17,7 @@
       "id": "mekanism:nugget_tin"
     },
     {
-      "chance": 0.25,
+      "chance": 0.025,
       "count": 1,
       "id": "mekanism:nugget_lead"
     }
