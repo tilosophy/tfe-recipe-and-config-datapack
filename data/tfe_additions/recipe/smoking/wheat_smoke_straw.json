@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "minecraft:wheat"
+  },
+  "result": {
+    "id": "farmersdelight:straw"
+  }
+}
