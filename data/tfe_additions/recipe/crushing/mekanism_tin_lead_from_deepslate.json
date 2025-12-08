@@ -20,6 +20,10 @@
       "chance": 0.025,
       "count": 1,
       "id": "mekanism:nugget_lead"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:gravel"
     }
   ]
 }

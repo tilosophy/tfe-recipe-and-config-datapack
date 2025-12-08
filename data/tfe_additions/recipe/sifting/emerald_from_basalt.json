@@ -14,7 +14,7 @@
       "id": "supplementaries:ash"      
     },
     {
-      "chance": 0.001,
+      "chance": 0.0005,
       "id": "minecraft:emerald"
     },
     {
@@ -22,12 +22,12 @@
       "id": "create:crushed_raw_zinc"
     },
     {
-      "chance": 0.01,
+      "chance": 0.005,
       "id": "create:crushed_raw_iron"
     },
     {
-      "chance": 0.002,
-      "id": "minecraft:blaze_powder"
+      "chance": 0.2,
+      "id": "minecraft:gravel"
     }
   ]
 }

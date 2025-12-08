@@ -14,27 +14,27 @@
       "id": "supplementaries:ash"      
     },
     {
-      "chance": 0.001,
+      "chance": 0.0005,
       "id": "minecraft:lapis_lazuli"
     },
     {
-      "chance": 0.01,
+      "chance": 0.001,
       "id": "minecraft:dead_brain_coral"
     },
     {
-      "chance": 0.01,
+      "chance": 0.001,
       "id": "minecraft:dead_bubble_coral"
     },
     {
-      "chance": 0.01,
+      "chance": 0.001,
       "id": "minecraft:dead_fire_coral"
     },
     {
-      "chance": 0.01,
+      "chance": 0.001,
       "id": "minecraft:dead_horn_coral"
     },
     {
-      "chance": 0.01,
+      "chance": 0.001,
       "id": "minecraft:dead_tube_coral"
     }
   ]

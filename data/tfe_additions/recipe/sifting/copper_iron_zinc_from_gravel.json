@@ -14,15 +14,15 @@
       "id": "minecraft:sand"
     },
     {
-      "chance": 0.02,
+      "chance": 0.01,
       "id": "create:crushed_raw_copper"      
     },
     {
-      "chance": 0.01,
+      "chance": 0.005,
       "id": "create:crushed_raw_iron"
     },
     {
-      "chance": 0.02,
+      "chance": 0.01,
       "id": "create:crushed_raw_zinc"
     },
     {
