@@ -13,7 +13,7 @@
     "blocks": "create:zinc_block"
   },
   "consumeBlocks": {
-    "first": true,
+    "first": false,
     "second": false
   },
   "requirements": [

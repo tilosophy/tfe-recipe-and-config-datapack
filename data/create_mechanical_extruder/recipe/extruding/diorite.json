@@ -13,8 +13,8 @@
     "blocks": "minecraft:quartz_block"
   },
   "consumeBlocks": {
-    "first": true,
-    "second": true
+    "first": false,
+    "second": false
   },
   "result": {
     "id": "minecraft:diorite"

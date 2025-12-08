@@ -13,8 +13,8 @@
     "blocks": "minecraft:packed_ice"
   },
   "consumeBlocks": {
-    "first": true,
-    "second": true
+    "first": false,
+    "second": false
   },
   "requirements": [
     {

@@ -14,7 +14,7 @@
   },
   "consumeBlocks": {
     "first": false,
-    "second": true
+    "second": false
   },
   "result": {
     "id": "minecraft:andesite"
