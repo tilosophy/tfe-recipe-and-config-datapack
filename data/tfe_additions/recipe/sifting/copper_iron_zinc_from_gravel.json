@@ -10,19 +10,19 @@
   "processing_time": 400,
   "results": [
     {
-      "chance": 0.25,
+      "chance": 0.5,
       "id": "minecraft:sand"
     },
     {
-      "chance": 0.05,
+      "chance": 0.02,
       "id": "create:crushed_raw_copper"      
     },
     {
-      "chance": 0.04,
+      "chance": 0.01,
       "id": "create:crushed_raw_iron"
     },
     {
-      "chance": 0.03,
+      "chance": 0.02,
       "id": "create:crushed_raw_zinc"
     },
     {
