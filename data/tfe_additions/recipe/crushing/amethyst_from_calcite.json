@@ -19,5 +19,10 @@
       "chance": 0.01,
       "id": "minecraft:amethyst_shard"
     }
+    ,
+    {
+      "chance": 0.01,
+      "id": "mekanism:fluorite_gem"
+    }
   ]
 }

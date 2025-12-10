@@ -1,0 +1,13 @@
+{
+  "type": "dndesires:seething",
+  "ingredients": [
+    {
+      "tag": "#c:ingots/platinum"
+    }
+  ],
+  "results": [
+    {
+      "id": "mekanism:ingot_osmium"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "mekanism:dust_fluorite"
+  },
+  "result": {
+    "id": "mekanism:fluorite_gem"
+  }
+}
