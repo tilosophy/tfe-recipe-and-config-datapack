@@ -19,7 +19,7 @@
   "requirements": [
     {
       "type": "mechanicals:max_speed",
-      "value": 32.0
+      "value": 128.0
     }
   ],
   "result": {

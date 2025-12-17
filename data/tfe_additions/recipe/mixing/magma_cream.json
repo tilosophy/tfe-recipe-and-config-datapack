@@ -2,7 +2,10 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "minecraft:magma_block"
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "create:cinder_flour"
     },
     {
       "item": "create:dough"

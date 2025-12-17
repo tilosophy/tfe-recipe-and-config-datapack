@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "regions_unexplored"
+    }
+  ],
+  "type": "dndesires:sanding",
+  "ingredients": [
+    {
+      "item": "regions_unexplored:pointed_redstone"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:redstone"
+    }
+  ]
+}

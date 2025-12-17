@@ -1,0 +1,25 @@
+{
+    "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "createsifter"
+	}
+	],
+	"type": "create:mixing",
+    "ingredients": [
+    	{
+    		"item": "createsifter:dust"
+    	},
+		{
+			"type": "fluid_stack",
+			"amount": 250,
+			"fluid": "minecraft:water"
+		}
+	], 
+	"results": [
+		{
+			"id": "minecraft:dirt",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "processing_time": 300,
+  "results": [
+    {
+      "id": "createsifter:dust"
+    },
+    {
+      "id": "oritech:raw_silicon",
+      "chance": 0.001
+    }
+  ]
+}
