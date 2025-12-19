@@ -7,7 +7,7 @@
         }
     ],
     "result": {
-        "id": "minecraft:prismarine_shards",
-        "count": 4
+        "count": 4,
+        "id": "minecraft:prismarine_shard"        
     }
 }

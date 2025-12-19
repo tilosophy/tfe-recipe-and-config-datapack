@@ -8,11 +8,16 @@
   "processing_time": 300,
   "results": [
     {
-      "count": 1,
+      "count": 0.5,
       "id": "createsifter:dust"
     },
     {
-      "chance": 0.01,
+      "chance": 0.03,
+      "count": 1,
+      "id": "oritech:raw_silicon"      
+    },
+    {
+      "chance": 0.005,
       "count": 1,
       "id": "oritech:raw_silicon"      
     }
