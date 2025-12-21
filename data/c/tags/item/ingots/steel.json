@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "mekanism:ingot_steel",
+    "oritech:steel_ingot"
+  ]
+}
