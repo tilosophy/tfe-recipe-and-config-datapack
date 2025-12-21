@@ -8,19 +8,17 @@
 			"item": "minecraft:flint"
 		},
 		{
-			"item": "minecraft:flint"
-		},
-		{
 			"item": "minecraft:iron_nugget"
 		},
 		{
 			"type": "fluid_stack",
-			"amount": 250,
+			"amount": 100,
 			"fluid": "minecraft:lava"
 		}
 	],
 	"results": [
 		{
+			"count": 2,
 			"id": "create:crimsite"
 		}
 	],

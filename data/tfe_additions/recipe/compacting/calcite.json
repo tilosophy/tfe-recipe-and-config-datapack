@@ -6,13 +6,11 @@
 		},
 		{
             "item": "minecraft:quartz"			
-		},
-		{
-			"item": "create:limestone"
 		}
 	],
 	"results": [
 		{
+			"count": 2,
 			"id": "minecraft:calcite"
 		}
 	],

@@ -2,7 +2,7 @@
 	"type": "create:compacting",
 	"ingredients": [
 		{
-			"item": "minecraft:terracotta"
+			"item": "minecraft:clay_ball"
 		},
 		{
 			"item": "minecraft:sand"
@@ -12,12 +12,13 @@
 		},
 		{
 			"type": "fluid_stack",
-			"amount": 250,
+			"amount": 100,
 			"fluid": "minecraft:water"
 		}
 	],
 	"results": [
 		{
+			"count": 2,
 			"id": "create:ochrum"
 		}
 	],
