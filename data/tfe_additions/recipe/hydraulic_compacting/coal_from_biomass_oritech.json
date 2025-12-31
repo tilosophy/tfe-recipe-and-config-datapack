@@ -1,0 +1,14 @@
+{
+  "type": "dndesires:hydraulic_compacting",
+  "ingredients": [
+    {
+      "item": "oritech:biomass"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:coal"
+    }
+  ],
+	"heat_requirement": "heated"
+}
