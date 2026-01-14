@@ -1,0 +1,20 @@
+{
+  "type": "oritech:laser",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "minecraft:creaking_heart"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:resin_clump"
+    }
+  ],
+  "time": 1
+}
