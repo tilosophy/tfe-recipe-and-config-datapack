@@ -5,12 +5,12 @@
       "item": "create:limestone"
     },
     {
-      "item": "minecraft:clay"
+      "item": "minecraft:clay_ball"
     }
   ],
   "results": [
     {
-      "count": 2,
+      "count": 1,
       "id": "minecraft:dripstone_block"
     }
   ]
