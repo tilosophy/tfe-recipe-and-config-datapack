@@ -1,0 +1,20 @@
+{
+  "type": "oritech:laser",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "geore:uranium_cluster"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "geore:uranium_shard"
+    }
+  ],
+  "time": 1
+}

@@ -1,5 +1,5 @@
 {
-  "type": "create_enchantment_industry:grinding",
+  "type": "dndesires:hydraulic_compacting",
   "ingredients": [
     {
       "tag": "minecraft:logs"
@@ -8,9 +8,15 @@
   "results": [
     {
       "id": "minecraft:resin_clump",
+      "count": 2
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:resin_clump",
       "count": 1
     },
     {
+      "chance": 0.1,
       "id": "farmersdelight:tree_bark",
       "count": 1
     }

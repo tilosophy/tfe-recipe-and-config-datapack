@@ -1,0 +1,29 @@
+{
+  "type": "oritech:assembler",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "oritech:uranium_gem"
+    },
+    {
+      "item": "oritech:uranium_gem"
+    },
+    {
+      "item": "oritech:dubios_container"
+    },
+    {
+      "item": "oritech:overcharged_crystal"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "geore:budding_uranium"
+    }
+  ],
+  "time": 320
+}
