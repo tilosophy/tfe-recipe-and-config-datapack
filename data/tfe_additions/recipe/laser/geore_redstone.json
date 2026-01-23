@@ -1,0 +1,25 @@
+{
+  "type": "oritech:laser",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+      "item": "geore:redstone_cluster"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "geore:redstone_shard"
+    },
+    {
+      "count": 1,
+      "chance": 0.25,
+      "id": "geore:redstone_shard"
+    }
+  ],
+  "time": 1
+}
