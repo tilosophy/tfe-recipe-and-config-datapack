@@ -1,0 +1,14 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "farmersdelight:tree_bark"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:resin_clump",
+			"chance": 0.25
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create_enchantment_industry:grinding",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:resin_clump",
+      "count": 1
+    },
+    {
+      "id": "farmersdelight:tree_bark",
+      "count": 1
+    }
+  ]
+}
