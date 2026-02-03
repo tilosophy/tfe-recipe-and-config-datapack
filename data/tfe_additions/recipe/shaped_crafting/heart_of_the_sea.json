@@ -8,16 +8,16 @@
     "D": {
       "item": "minecraft:diamond"
     },
-    "G": {
-      "item": "minecraft:glowstone"
+    "C": {
+      "item": "minecraft:prismarine_crystals"
     }
   },
   "pattern": [
-    "GDG",
+    "CDC",
     "DND",
-    "GDG"
+    "CDC"
   ],
   "result": {
-    "id": "minecraft:nether_star"
+    "id": "minecraft:heart_of_the_sea"
   }
 }

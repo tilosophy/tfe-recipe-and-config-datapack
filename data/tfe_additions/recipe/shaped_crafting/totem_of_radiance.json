@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "betterarcheology"
+    }
+	],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }     
+  },
+  "pattern": [
+    "INI",
+    "IEI",
+    "III"
+  ],
+  "result": {
+    "id": "betterarcheology:radiance_totem"
+  }
+}
