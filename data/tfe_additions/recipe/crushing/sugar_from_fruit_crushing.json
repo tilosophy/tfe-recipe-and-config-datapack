@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "c:foods/fruit"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:sugar"
+    },
+    {
+      "chance": 0.2,
+      "id": "minecraft:sugar"
+    }
+  ]
+}

@@ -2,16 +2,16 @@
 	"type": "dndesires:hydraulic_compacting",
 	"ingredients": [
 		{
-			"item": "minecraft:cobblestone"
+			"item": "minecraft:cobbled_deepslate"
 		},
 		{
-            "item": "create:crushed_raw_gold"
+            "item": "create:crushed_raw_uranium"
 		},
 		{
-            "item": "create:crushed_raw_gold"
+            "item": "create:crushed_raw_uranium"
 		},
 		{
-            "item": "create:crushed_raw_gold"
+            "item": "create:crushed_raw_uranium"
 		},
         {
             "item": "create:experience_nugget"
@@ -20,7 +20,7 @@
     "processing_time": 300,
 	"results": [
 		{
-			"id": "minecraft:gold_ore"
+			"id": "oritech:deepslate_uranium_ore"
 		}
 	],
 	"heat_requirement": "superheated"

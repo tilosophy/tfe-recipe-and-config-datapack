@@ -5,13 +5,13 @@
 			"item": "minecraft:cobblestone"
 		},
 		{
-            "item": "create:crushed_raw_gold"
+            "item": "minecraft:diamond"
 		},
 		{
-            "item": "create:crushed_raw_gold"
+            "item": "minecraft:diamond"
 		},
 		{
-            "item": "create:crushed_raw_gold"
+            "item": "minecraft:diamond"
 		},
         {
             "item": "create:experience_nugget"
@@ -20,7 +20,7 @@
     "processing_time": 300,
 	"results": [
 		{
-			"id": "minecraft:gold_ore"
+			"id": "minecraft:diamond_ore"
 		}
 	],
 	"heat_requirement": "superheated"

@@ -5,19 +5,22 @@
 			"item": "minecraft:cobbled_deepslate"
 		},
 		{
-            "item": "create:crushed_raw_platinum"
+            "item": "create:crushed_raw_zinc"
 		},
 		{
-            "item": "create:crushed_raw_platinum"
+            "item": "create:crushed_raw_zinc"
+		},
+		{
+            "item": "create:crushed_raw_zinc"
 		},
         {
             "item": "create:experience_nugget"
 		}
 	],
-    "processing_time": 400,
+    "processing_time": 300,
 	"results": [
 		{
-			"id": "oritech:deepslate_platinum_ore"
+			"id": "create:deepslate_zinc_ore"
 		}
 	],
 	"heat_requirement": "superheated"

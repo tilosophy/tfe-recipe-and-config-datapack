@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "netherdepthsupgrade"
+    }
+  ],
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:seagrass"
+    }
+  ],
+  "results": [
+    {
+      "id": "netherdepthsupgrade:crimson_seagrass"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:nether_brick"
+		},
+		{
+			"item": "minecraft:nether_brick"
+		},
+		{
+			"item": "minecraft:nether_wart"
+		},
+		{
+			"item": "minecraft:nether_wart"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:red_nether_bricks"
+		}
+	]
+}

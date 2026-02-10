@@ -2,7 +2,10 @@
 	"type": "dndesires:hydraulic_compacting",
 	"ingredients": [
 		{
-			"item": "minecraft:cobbled_deepslate"
+			"item": "minecraft:cobblestone"
+		},
+		{
+            "item": "create:crushed_raw_nickel"
 		},
 		{
             "item": "create:crushed_raw_nickel"
@@ -14,10 +17,10 @@
             "item": "create:experience_nugget"
 		}
 	],
-    "processing_time": 400,
+    "processing_time": 300,
 	"results": [
 		{
-			"id": "oritech:deepslate_nickel_ore"
+			"id": "oritech:nickel_ore"
 		}
 	],
 	"heat_requirement": "superheated"

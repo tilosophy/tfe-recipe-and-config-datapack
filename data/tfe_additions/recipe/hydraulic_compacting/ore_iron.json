@@ -10,6 +10,9 @@
 		{
             "item": "create:crushed_raw_iron"
 		},
+		{
+            "item": "create:crushed_raw_iron"
+		},
         {
             "item": "create:experience_nugget"
 		}
