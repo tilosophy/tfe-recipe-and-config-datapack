@@ -2,18 +2,19 @@
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
-      "modid": "netherdepthsupgrade"
+      "modid": "farmersdelight"
     }
   ],
-  "type": "create:haunting",
+  "type": "create:pressing",
   "ingredients": [
     {
-      "item": "minecraft:seagrass"
+      "item": "farmersdelight:tree_bark"
     }
   ],
   "results": [
     {
-      "id": "netherdepthsupgrade:warped_seagrass"
+      "count": 1,
+      "id": "minecraft:paper"
     }
   ]
 }
